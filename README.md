@@ -1,6 +1,6 @@
 # nutripaloma
 
-introducao alimentar
+App Voltado para Introducao Alimentar
 
 ## Getting Started
 
